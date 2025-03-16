@@ -1,0 +1,12 @@
+
+.DS_Store
+.vscode/
+.idea/
+
+*.py[cod]
+*.o
+*.so
+*.lib
+*.bin
+*.exe
+

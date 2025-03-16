@@ -1,0 +1,42 @@
+
+"Machine Learning Methods" Author: Li Hang
+
+- Part 1 Supervised Learning
+  - Chapter 1 Introduction to Machine Learning and Supervised Learning
+  - Chapter 2 Perceptron
+  - Chapter 3 K Nearest Neighbor Method
+  - Chapter 4 Naive Bayes Method
+  - Chapter 5 Decision Tree
+  - Chapter 6 Logistic Regression and Maximum Entropy Model
+  - Chapter 7 Support Vector Product
+  - Chapter 8 Boosting
+  - Chapter 9 EM Algorithm and Its Generalization
+  - Chapter 10 Hidden Markov Model
+  - Chapter 11 Conditional Random Field
+  - Chapter 12 Summary of Supervised Learning Methods
+- Part 2 Unsupervised Learning
+  - Chapter 13 Introduction to Unsupervised Learning
+  - Chapter 14 Clustering Methods
+  - Chapter 15 Singular Value Decomposition
+  - Chapter 16 Principal Component Analysis
+  - Chapter 17 Latent Semantic Analysis
+  - Chapter 18 Probabilistic Latent Semantic Analysis
+  - Chapter 19 Markov Chain Monte Carlo Method
+  - Chapter 20 Latent Dirichlet Allocation
+  - Chapter 21 PageRank Algorithm
+  - Chapter 22 Summary of Unsupervised Learning Methods
+- Part 3 Deep Learning
+  - Chapter 23 Feedforward Neural Networks
+  - Chapter 24 Convolutional Neural Networks
+  - Chapter 25 Recurrent Neural Networks
+  - Chapter 26 Sequence-to-Sequence Models
+  - Chapter 27 Pre-trained Language Models
+  - Chapter 28 Generative Adversarial Networks
+  - Chapter 29 Summary of Deep Learning Methods
+- Appendix
+  - A Gradient Descent Method
+  - B Newton Method and Quasi-Newton Method
+  - C Lagrange Duality
+  - D Basic Subspace of Matrix
+  - E Definition of KL Divergence and Properties of Dirichlet Distribution
+  - F Partial Derivatives of Soft Maximization Function and Partial Derivatives of Cross Entropy Loss Function
